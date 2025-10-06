@@ -1,3 +1,3 @@
 # Ant.io
 Jeu de fourmis
-classe;
+matheo karterron
