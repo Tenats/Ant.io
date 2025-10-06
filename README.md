@@ -1,3 +1,7 @@
 # Ant.io
 Jeu de fourmis
-classe;
+
+ACTIONS DU JOUEUR
+1
+2
+3
