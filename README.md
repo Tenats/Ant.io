@@ -1,9 +1,4 @@
 # Ant.io
-Jeu de fourmis
-classe;
+Jeu de fourmis;
 
-Tibaux la symballe
-Thibault ne va servir à rien durant tout le projet.
-matheo karterron
-fgdfgdfg
-c'etait nul
+Ajouter les règles du jeu pour être au clair avec tout le monde;
